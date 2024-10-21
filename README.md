@@ -2,9 +2,9 @@
 
 ## 普通学生
 
-USC MS在读
+USC M.S.在读
 
-HUST BS已毕业
+HUST B.S.已毕业
 
 ### **社交主页：**
 
