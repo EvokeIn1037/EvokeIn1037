@@ -15,7 +15,7 @@ USC MS在读，HUST BS已毕业
 ### **技术栈:**
 
 <a href="https://cplusplus.com/"><code><img height="20" width="auto" src="./images/cpp.png"></code></a>
-<a href="https://www.python.org/"><code><img height="20" width="auto" src="./images/python.svg"></code></a>
+<a href="https://www.python.org/"><code><img height="20" width="auto" src="./images/python.png"></code></a>
 <a href="https://www.swift.org/"><code><img height="20" width="auto" src="./images/swift.png"></code></a>
 
 ### 开源项目
