@@ -8,11 +8,12 @@ HUST B.S.已毕业
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="auto" />
-
+ ![](./images/code.gif)
 
 -   <a href="https://evokein1037.github.io/blog"><code><img height="20" width="auto" src="./images/blog.png"></code></a>：姑且算是博客。
 -   <a href="https://space.bilibili.com/325681120?spm_id_from=333.1007.0.0"><code><img height="20" width="auto" src="./images/bilibili.png"></code></a>：凄惨的b站主页。
+
+---
 
 ### **技术栈:**
 
@@ -20,10 +21,15 @@ HUST B.S.已毕业
 <a href="https://www.python.org/"><code><img height="20" width="auto" src="./images/python.png"></code></a>
 <a href="https://www.swift.org/"><code><img height="20" width="auto" src="./images/swift.png"></code></a>
 
+---
+
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EvokeIn1037&repo=Random-Pictures)](https://github.com/EvokeIn1037/Random-Pictures)
-<br><br><br>
+
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EvokeIn1037&repo=TelegramBot-Manual)](https://github.com/EvokeIn1037/TelegramBot-Manual)
+
+---
 
 ### Github 活跃度
 
