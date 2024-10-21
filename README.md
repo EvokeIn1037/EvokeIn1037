@@ -6,7 +6,7 @@ USC MS在读，HUST BS已毕业
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="430" height="auto" />
 
 
 -   <a href="https://evokein1037.github.io/blog"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：姑且算是博客。
