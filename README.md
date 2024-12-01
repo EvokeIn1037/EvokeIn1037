@@ -1,21 +1,21 @@
 <img align="right" src="https://count.getloli.com/@:EvokeIn1037?theme=kasuterura-4">
 
-## 普通学生
+## 普通學生
 
-USC M.S.在读
+USC M.S.在讀
 
-HUST B.S.已毕业
+HUST B.S.已畢業
 
-### **社交主页：**
+### **社交主頁：**
 
  ![](./images/code.gif)
 
--   <a href="https://evokein1037.github.io/blog"><code><img height="20" width="auto" src="./images/blog.png"></code></a>：姑且算是博客。
--   <a href="https://space.bilibili.com/325681120?spm_id_from=333.1007.0.0"><code><img height="20" width="auto" src="./images/bilibili.png"></code></a>：凄惨的b站主页。
+-   <a href="https://evokein1037.github.io/blog"><code><img height="20" width="auto" src="./images/blog.png"></code></a>：姑且算是blog。
+-   <a href="https://space.bilibili.com/325681120?spm_id_from=333.1007.0.0"><code><img height="20" width="auto" src="./images/bilibili.png"></code></a>：淒慘的b站主頁。
 
 ---
 
-### **技术栈:**
+### **技術棧:**
 
 <a href="https://cplusplus.com/"><code><img height="20" width="auto" src="./images/cpp.png"></code></a>
 <a href="https://www.python.org/"><code><img height="20" width="auto" src="./images/python.png"></code></a>
@@ -23,7 +23,7 @@ HUST B.S.已毕业
 
 ---
 
-### 开源项目
+### 開源項目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=EvokeIn1037&repo=Random-Pictures)](https://github.com/EvokeIn1037/Random-Pictures)
 
@@ -31,7 +31,7 @@ HUST B.S.已毕业
 
 ---
 
-### Github 活跃度
+### Github 活躍度
 
 [![](https://activity-graph.herokuapp.com/graph?username=EvokeIn1037&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![EvokeIn1037's github stats](https://github-readme-stats.vercel.app/api?username=EvokeIn1037&show_icons=true&theme=vue)
