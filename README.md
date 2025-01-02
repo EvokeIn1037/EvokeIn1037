@@ -1,5 +1,7 @@
 <img align="right" src="https://count.getloli.com/@:EvokeIn1037?theme=kasuterura-4">
 
+---
+
 ## 普通學生
 
 USC M.S.在讀
