@@ -26,14 +26,6 @@ HUST B.S.已畢業
 
 ---
 
-### 開源項目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EvokeIn1037&repo=Random-Pictures)](https://github.com/EvokeIn1037/Random-Pictures)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EvokeIn1037&repo=TelegramBot-Manual)](https://github.com/EvokeIn1037/TelegramBot-Manual)
-
----
-
 ### Github 活躍度
 
 [![](https://activity-graph.herokuapp.com/graph?username=EvokeIn1037&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
