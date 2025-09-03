@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-## Student
+## CS Student
 
 USC M.S.currently enrolled
 
